@@ -4,280 +4,418 @@ AC Fiorentina,ACF Fiorentina,96.2962962962963
 Hibernian FC,Hibernians FC,96.0
 GFC Ajaccio,GFCO Ajaccio,95.65217391304348
 Al-Ahli SC,Al-Ahli SFC,95.23809523809523
-Dinamo S-Pb,Dinamo SPb,95.23809523809523
 AO Kerkyra,AOK Kerkyra,95.23809523809523
+Dinamo S-Pb,Dinamo SPb,95.23809523809523
 KSK Beveren,SK Beveren,95.23809523809523
 SC Cambuur Leeuwarden,SC Cambuur-Leeuwarden,95.23809523809523
-Shakhtar,Shakhtar D.,95.0
-VfL Wolfsburg,Wolfsburg,95.0
-US Salernitana,US Salernitana 1919,95.0
-Venezia,Venezia FC,95.0
-1.FC Saarbrücken,Saarbrücken,95.0
-AC Le Havre,Le Havre,95.0
-Vitória Setúbal,Vitória Setúbal FC,95.0
-Torpedo,Torpedo NN,95.0
-US Orléans,US Orléans 45,95.0
-Stade Brestois,Stade Brestois 29,95.0
-Stade Rennais,Stade Rennais FC,95.0
-Stockport,Stockport S,95.0
-Sunderland,Sunderland AFC,95.0
-Stuttgart,VfB Stuttgart,95.0
-Vigor Lamezia,Vigor Lamezia Y,95.0
-Al-Nasr,Al-Nasr SC,95.0
-Siracusa,US Siracusa,95.0
-Sporting,Sporting CP,95.0
-Saturn REN-TV Ramenskoe,Saturn Ramenskoe,95.0
-Sevilla,Sevilla FC,95.0
-Ternana,Ternana U.,95.0
-TSG 1899 Hoffenheim,TSG Hoffenheim,95.0
-St. Mirren,St. Mirren FC,95.0
-St. Petersburg,Zenit St. Petersburg,95.0
-SC Paderborn,SC Paderborn 07,95.0
-Shakhtar,Shakhtar 3,95.0
-AS Saint-Étienne,Saint-Étienne,95.0
-Anzhi,Anzhi 2,95.0
-Wattenscheid,Wattenscheid 09,95.0
-A. Bielefeld,Bielefeld,95.0
-Watford,Watford FC,95.0
-Valenciennes,Valenciennes FC,95.0
-Logroñés,UD Logroñés,95.0
-Olympiakos,Olympiakos N.,95.0
-Middlesbrough,Middlesbrough FC,95.0
-MVV Maastricht,Maastricht,95.0
-Morecambe,Morecambe FC,95.0
 Portimonense,Portimonense 23,95.0
-SC Toulon,SC Toulon Var,95.0
+FK Krasnodar,Krasnodar,95.0
+CD Guadalajara,Guadalajara,95.0
+Barletta,Barletta CS,95.0
+CD Logroñés,Logroñés,95.0
+Barnsley,Barnsley FC,95.0
+Eindhoven,PSV Eindhoven,95.0
+MVV Maastricht,Maastricht,95.0
+CD Fátima,CD Fátima SAD,95.0
+Ternana,Ternana U.,95.0
+CD Nacional,Nacional,95.0
+CD Feirense,Feirense,95.0
+Beira-Mar,SC Beira-Mar,95.0
+Belenenses,Belenenses SAD,95.0
+TSG 1899 Hoffenheim,TSG Hoffenheim,95.0
+FC Volendam,Volendam,95.0
+CD El Nacional,CD Nacional,95.0
+FC Utrecht,Utrecht,95.0
+Benfica,SL Benfica,95.0
+FC Twente,Twente FC,95.0
+Sunderland,Sunderland AFC,95.0
+FK Orenburg,Orenburg,95.0
+CD Santa Clara,Santa Clara,95.0
+CD Olimpia,Olimpia,95.0
+CD Tenerife,Tenerife,95.0
+E. Frankfurt,Frankfurt,95.0
+Leixões,Leixões SC,95.0
+Farense,SC Farense,95.0
+Famalicão,Famalicão Y19,95.0
+Sassuolo,US Sassuolo,95.0
+Saturn,Saturn 2,95.0
+EA Guingamp,Guingamp,95.0
+EC Juventude,Juventude,95.0
+CS Marítimo,Marítimo,95.0
+CO Montijo,Montijo,95.0
+FSV Frankfurt,Frankfurt,95.0
+CF União Madeira,União Madeira,95.0
+Torpedo,Torpedo NN,95.0
+CF Pachuca,Pachuca,95.0
+BB Erzurumspor,Erzurumspor,95.0
+Eindhoven,FC Eindhoven,95.0
+Badajoz,CD Badajoz,95.0
+Logroñés,UD Logroñés,95.0
+FK Ufa,FK Ufa 2,95.0
+CF Extremadura,Extremadura,95.0
+Saturn REN-TV Ramenskoe,Saturn Ramenskoe,95.0
+CD Trofense,Trofense,95.0
+CD Tondela,Tondela,95.0
+Stuttgart,VfB Stuttgart,95.0
+CA Juventus,Juventus,95.0
+FC Tours,Tours FC,95.0
+FC Messina Peloro,Messina Peloro,95.0
+FC Messina,Messina,95.0
+Empoli FC,FC Empoli,95.0
+FC Martigues,Martigues,95.0
+Middlesbrough,Middlesbrough FC,95.0
+Millwall,Millwall FC,95.0
+FC Lorient,Lorient,95.0
+FC Le Mans,Le Mans FC,95.0
+FC Istres,Istres FC,95.0
+FC Ingolstadt,FC Ingolstadt 04,95.0
+FC Hansa Rostock,Hansa Rostock,95.0
+FC Groningen,Groningen,95.0
+Energie Cottbus,FC Energie Cottbus,95.0
+FC Famalicão,Famalicão,95.0
+Montpellier,Montpellier HSC,95.0
+Brentford,Brentford FC,95.0
+Morecambe,Morecambe FC,95.0
+Excelsior,Excelsior M,95.0
+Excelsior,Excelsior '31,95.0
+Moreirense,Moreirense FC,95.0
+Bragantino,RB Bragantino,95.0
+Everton,Everton FC,95.0
+Siracusa,US Siracusa,95.0
+Estoril Praia,GD Estoril Praia,95.0
+Shakhtar,Shakhtar D.,95.0
+FC Nizhniy Novgorod,FC Pari Nizhniy Novgorod,95.0
+Blackpool,Blackpool FC,95.0
+FC Paços de Ferreira,Paços Ferreira,95.0
+Cambuur,Cambuur L.,95.0
+Boavista,Boavista FC,95.0
+FC Toulouse,Toulouse,95.0
+Stockport,Stockport S,95.0
+CA Felgueiras,Felgueiras,95.0
+FC Tirsense,Tirsense,95.0
+FC São Paulo,São Paulo,95.0
+Stade Rennais,Stade Rennais FC,95.0
+Stade Brestois,Stade Brestois 29,95.0
+St. Petersburg,Zenit St. Petersburg,95.0
+St. Mirren,St. Mirren FC,95.0
+Bordeaux,G. Bordeaux,95.0
+FC St. Pauli,St. Pauli,95.0
+FC St. Gallen,St. Gallen,95.0
+Portimonense,Portimonense SC,95.0
+Boulogne,US Boulogne,95.0
+Sporting,Sporting CP,95.0
+New York City,York City,95.0
+FC Schalke 04,Schalke 04,95.0
+FC Saburtalo,Saburtalo,95.0
+Sevilla,Sevilla FC,95.0
+Shakhtar,Shakhtar 3,95.0
+FC Penafiel,Penafiel,95.0
+Sampdoria,UC Sampdoria,95.0
+Salamanca,UD Salamanca,95.0
+Clermont Foot,Clermont Foot 63,95.0
+Cambuur,SC Cambuur,95.0
+Jeanne d'Arc,Jeanne d'Arc FC,95.0
+Paderborn,SC Paderborn,95.0
+Darmstadt 98,SV Darmstadt 98,95.0
+Darmstadt,Darmstadt 98,95.0
+Wimbledon,Wimbledon FC,95.0
+AS Avellino,Avellino,95.0
+Crotone,FC Crotone,95.0
+Cremonese,US Cremonese,95.0
+Greuther Fürth,SpVgg Greuther Fürth,95.0
+AS Livorno,Livorno,95.0
+Reading,Reading FC,95.0
+KFC Uerdingen,KFC Uerdingen 05,95.0
+Granada 74 CF,Granada CF,95.0
+KFC Uerdingen,Uerdingen,95.0
+AS Saint-Étienne,Saint-Étienne,95.0
+Copenhagen,FC Copenhagen,95.0
+Wattenscheid,Wattenscheid 09,95.0
+Watford,Watford FC,95.0
+Concordia,SC Concordia,95.0
+Compostela,SD Compostela,95.0
+Real Murcia,Real Murcia CF,95.0
+Real Oviedo,Real Oviedo You,95.0
+Olympiakos,Olympiakos N.,95.0
+De Graafschap,Graafschap,95.0
+AFC Wimbledon,Wimbledon,95.0
+AFC Bournemouth,Bournemouth,95.0
+Paços F.,Paços de F.,95.0
+Piacenza,Piacenza FC,95.0
+1.FC Saarbrücken,Saarbrücken,95.0
+1.FC Union Berlin,Union Berlin,95.0
+Portsmouth,Portsmouth FC,95.0
+Huddersfield,Huddersfield Town,95.0
+1860 Munich,TSV 1860 Munich,95.0
+Торпедо-Лужники,Торпедо-Лужники Москва,95.0
+Potenza,Potenza SC,95.0
+A. Bielefeld,Bielefeld,95.0
+AA Portuguesa,Portuguesa,95.0
+Hoffenheim,TSG Hoffenheim,95.0
+Palermo,US Palermo,95.0
+R. Strasbourg,Strasbourg,95.0
+AC Le Havre,Le Havre,95.0
+Partick Thistle,Partick Thistle FC,95.0
+AC Perugia,Perugia,95.0
+RBC Roosendaal,Roosendaal,95.0
+AC Reggiana,Reggiana,95.0
+Zhemchuzhina,Zhemchuzhina B.,95.0
+Zenit 2 S-Pb,Zenit S-Pb,95.0
+Heerenveen,SC Heerenveen,95.0
+Den Bosch,FC Den Bosch,95.0
+Red Star,Red Star FC,95.0
+Bradford,Bradford PA,95.0
+Gillingham,Gillingham FC,95.0
+Dynamo Dresden,SG Dynamo Dresden,95.0
+LR Vicenza,Vicenza,95.0
+US Valenciennes,Valenciennes,95.0
+Anzhi,Anzhi 2,95.0
+US Salernitana,US Salernitana 1919,95.0
+SC Veendam,Veendam,95.0
+US Orléans,US Orléans 45,95.0
+Celta Vigo,Celta de Vigo,95.0
+SG Wattenscheid 09,Wattenscheid 09,95.0
+Las Palmas,UD Las Palmas,95.0
+Dynamo 2 Kyiv,Dynamo Kyiv,95.0
+Casa Pia,Casa Pia AC,95.0
+Frankfurt,RW Frankfurt,95.0
+Cartagena FC,FC Cartagena,95.0
+Figueirense,Figueirense FC,95.0
+Aston Villa,Aston Villa Res.,95.0
 Atalanta,Atalanta BC,95.0
 SV Werder Bremen,Werder Bremen,95.0
 Salamanca,Salamanca CF,95.0
-SC Veendam,Veendam,95.0
-SG Wattenscheid 09,Wattenscheid 09,95.0
-Salamanca,UD Salamanca,95.0
-Salernitana,US Salernitana,95.0
-SC Telstar,Telstar,95.0
-SC Toulon,SC Toulon 83,95.0
-Paderborn,SC Paderborn,95.0
-Real Oviedo,Real Oviedo You,95.0
-Sampdoria,UC Sampdoria,95.0
-Sassuolo,US Sassuolo,95.0
-Saturn,Saturn 2,95.0
-RBC Roosendaal,Roosendaal,95.0
-Reading,Reading FC,95.0
-Real Murcia,Real Murcia CF,95.0
-Palermo,US Palermo,95.0
-Rio Ave,Rio Ave FC,95.0
-Red Star,Red Star FC,95.0
-Paços F.,Paços de F.,95.0
-América,CD América,95.0
-Badajoz,CD Badajoz,95.0
-BB Erzurumspor,Erzurumspor,95.0
-SC Salgueiros,Salgueiros,95.0
-Montpellier,Montpellier HSC,95.0
-Kyoto P. Sanga,Kyoto Sanga,95.0
-Leixões,Leixões SC,95.0
-LR Vicenza,Vicenza,95.0
-Las Palmas,UD Las Palmas,95.0
-Moreirense,Moreirense FC,95.0
-Portimonense,Portimonense SC,95.0
-Partick Thistle,Partick Thistle FC,95.0
-Piacenza,Piacenza FC,95.0
-New York City,York City,95.0
-Portsmouth,Portsmouth FC,95.0
-Potenza,Potenza SC,95.0
-Oberhausen,RW Oberhausen,95.0
-Oleksandria,PFK Oleksandria,95.0
-Olhanense,SC Olhanense,95.0
-R. Strasbourg,Strasbourg,95.0
-Huddersfield,Huddersfield Town,95.0
-Hoffenheim,TSG Hoffenheim,95.0
-Beira-Mar,SC Beira-Mar,95.0
-Millwall,Millwall FC,95.0
-Krasnodar,Krasnodar 2,95.0
-Gillingham,Gillingham FC,95.0
-Gil Vicente,Gil Vicente Y19,95.0
-Gil Vicente,Gil Vicente FC,95.0
-Belenenses,Belenenses SAD,95.0
-Boavista,Boavista FC,95.0
-Jeanne d'Arc,Jeanne d'Arc FC,95.0
-Blackpool,Blackpool FC,95.0
-Alverca,FC Alverca,95.0
-Aston Villa,Aston Villa Res.,95.0
-Anderlecht,RSC Anderlecht,95.0
-1860 Munich,TSV 1860 Munich,95.0
-CS Marítimo,Marítimo,95.0
-Wimbledon,Wimbledon FC,95.0
-Empoli FC,FC Empoli,95.0
-Eindhoven,FC Eindhoven,95.0
-Espinho,SC Espinho,95.0
-Bradford,Bradford PA,95.0
-Bragantino,RB Bragantino,95.0
-Eindhoven,PSV Eindhoven,95.0
-Brentford,Brentford FC,95.0
-Bordeaux,G. Bordeaux,95.0
-Darmstadt,Darmstadt 98,95.0
-Granada 74 CF,Granada CF,95.0
-Greuther Fürth,SpVgg Greuther Fürth,95.0
-Heerenveen,SC Heerenveen,95.0
-KFC Uerdingen,Uerdingen,95.0
-Benfica,SL Benfica,95.0
-FC São Paulo,São Paulo,95.0
-Farense,SC Farense,95.0
-Figueirense,Figueirense FC,95.0
-FSV Frankfurt,Frankfurt,95.0
-Frankfurt,RW Frankfurt,95.0
 Feyenoord,SC Feyenoord,95.0
-FC St. Gallen,St. Gallen,95.0
-FC St. Pauli,St. Pauli,95.0
-FC Utrecht,Utrecht,95.0
-FC Tirsense,Tirsense,95.0
-FC Tours,Tours FC,95.0
-FC Twente,Twente FC,95.0
-FC Saburtalo,Saburtalo,95.0
-FC Volendam,Volendam,95.0
-Famalicão,Famalicão Y19,95.0
-KFC Uerdingen,KFC Uerdingen 05,95.0
-Dynamo 2 Kyiv,Dynamo Kyiv,95.0
-FK Orenburg,Orenburg,95.0
-FC Toulouse,Toulouse,95.0
-FK Ufa,FK Ufa 2,95.0
-Estoril Praia,GD Estoril Praia,95.0
-Everton,Everton FC,95.0
-Excelsior,Excelsior '31,95.0
-Boulogne,US Boulogne,95.0
-FC Groningen,Groningen,95.0
-Barletta,Barletta CS,95.0
-Barnsley,Barnsley FC,95.0
-FC Famalicão,Famalicão,95.0
-FC Istres,Istres FC,95.0
-FC Hansa Rostock,Hansa Rostock,95.0
-FC Le Mans,Le Mans FC,95.0
-FC Lorient,Lorient,95.0
-E. Frankfurt,Frankfurt,95.0
-FC Martigues,Martigues,95.0
-Excelsior,Excelsior M,95.0
-FC Messina Peloro,Messina Peloro,95.0
-FC Nizhniy Novgorod,FC Pari Nizhniy Novgorod,95.0
-FC Paços de Ferreira,Paços Ferreira,95.0
-FC Penafiel,Penafiel,95.0
-FC Ingolstadt,FC Ingolstadt 04,95.0
-EC Juventude,Juventude,95.0
-Dynamo Dresden,SG Dynamo Dresden,95.0
-FC Messina,Messina,95.0
+Espinho,SC Espinho,95.0
+Salernitana,US Salernitana,95.0
 Düsseldorf,F. Düsseldorf,95.0
-Dordrecht,FC Dordrecht,95.0
-EA Guingamp,Guingamp,95.0
-FC Schalke 04,Schalke 04,95.0
-FK Krasnodar,Krasnodar,95.0
-AFC Bournemouth,Bournemouth,95.0
-AA Portuguesa,Portuguesa,95.0
-CD Fátima,CD Fátima SAD,95.0
-CD Feirense,Feirense,95.0
-CD Olimpia,Olimpia,95.0
-CD Santa Clara,Santa Clara,95.0
-CD Tenerife,Tenerife,95.0
-CD Nacional,Nacional,95.0
-CF Pachuca,Pachuca,95.0
-CF União Madeira,União Madeira,95.0
-CO Montijo,Montijo,95.0
-Darmstadt 98,SV Darmstadt 98,95.0
-Den Bosch,FC Den Bosch,95.0
-De Graafschap,Graafschap,95.0
-Clermont Foot,Clermont Foot 63,95.0
-Energie Cottbus,FC Energie Cottbus,95.0
-Cambuur,Cambuur L.,95.0
-Cambuur,SC Cambuur,95.0
-Compostela,SD Compostela,95.0
-Concordia,SC Concordia,95.0
-Copenhagen,FC Copenhagen,95.0
+Anderlecht,RSC Anderlecht,95.0
+SC Toulon,SC Toulon Var,95.0
+Vitória Setúbal,Vitória Setúbal FC,95.0
+Venezia,Venezia FC,95.0
+Gil Vicente,Gil Vicente Y19,95.0
 Clermont,Clermont FA,95.0
-Cremonese,US Cremonese,95.0
-Crotone,FC Crotone,95.0
-Celta Vigo,Celta de Vigo,95.0
-Central,Central FC,95.0
-Cartagena FC,FC Cartagena,95.0
-Casa Pia,Casa Pia AC,95.0
-CA Felgueiras,Felgueiras,95.0
-CA Juventus,Juventus,95.0
-CD El Nacional,CD Nacional,95.0
+Vigor Lamezia,Vigor Lamezia Y,95.0
+Al-Nasr,Al-Nasr SC,95.0
 Châteauroux,LB Châteauroux,95.0
-AS Avellino,Avellino,95.0
-AFC Wimbledon,Wimbledon,95.0
-Zhemchuzhina,Zhemchuzhina B.,95.0
-Zenit 2 S-Pb,Zenit S-Pb,95.0
-1.FC Union Berlin,Union Berlin,95.0
-US Valenciennes,Valenciennes,95.0
-AC Reggiana,Reggiana,95.0
-Торпедо-Лужники,Торпедо-Лужники Москва,95.0
-AC Perugia,Perugia,95.0
-AS Livorno,Livorno,95.0
-CD Trofense,Trofense,95.0
-CD Guadalajara,Guadalajara,95.0
-CD Logroñés,Logroñés,95.0
-CD Tondela,Tondela,95.0
-CF Extremadura,Extremadura,95.0
+Gil Vicente,Gil Vicente FC,95.0
+Rio Ave,Rio Ave FC,95.0
+VfL Wolfsburg,Wolfsburg,95.0
+Olhanense,SC Olhanense,95.0
+Oleksandria,PFK Oleksandria,95.0
+Oberhausen,RW Oberhausen,95.0
+Central,Central FC,95.0
+Krasnodar,Krasnodar 2,95.0
+Dordrecht,FC Dordrecht,95.0
+Valenciennes,Valenciennes FC,95.0
+Alverca,FC Alverca,95.0
+SC Paderborn,SC Paderborn 07,95.0
+SC Salgueiros,Salgueiros,95.0
+SC Telstar,Telstar,95.0
+América,CD América,95.0
+SC Toulon,SC Toulon 83,95.0
+Kyoto P. Sanga,Kyoto Sanga,95.0
 Salgueiro,Salgueiros,94.73684210526316
 1. FC Köln,1.FC Köln,94.73684210526316
 FK Tambov,PFK Tambov,94.73684210526316
 Al-Shaab,Al-Shabab,94.11764705882352
-Volgar-Gazprom,Volgar-Gazprom-2,93.33333333333333
-Spartak Moscow,Spartak-D Moscow,93.33333333333333
-Reggiana,Reggina,93.33333333333333
 Atlanta,Atlantas,93.33333333333333
 Atalanta,Atlanta,93.33333333333333
+Spartak Moscow,Spartak-D Moscow,93.33333333333333
+Volgar-Gazprom,Volgar-Gazprom-2,93.33333333333333
+Reggiana,Reggina,93.33333333333333
 H. Petah Tikva,M. Petah Tikva,92.85714285714286
 Dinamo Moscow,Dinamo-D Moscow,92.85714285714286
-Al-Faisaly FC,Al-Faisaly SC,92.3076923076923
 Admira Wacker,Admira/Wacker,92.3076923076923
-Arsenal Tula,Arsenal-2 Tula,92.3076923076923
 A. Bielefeld,Arm. Bielefeld,92.3076923076923
-Dinamo Moscow,Dynamo Moscow,92.3076923076923
 1.FSV Mainz 05,FSV Mainz 05,92.3076923076923
+Al-Faisaly FC,Al-Faisaly SC,92.3076923076923
+Arsenal Tula,Arsenal-2 Tula,92.3076923076923
+Dinamo Moscow,Dynamo Moscow,92.3076923076923
 Barcelona EC,Barcelona SC,91.66666666666666
-Liberty Pro,Liberty Prof.,91.66666666666666
 B. Jerusalem,H. Jerusalem,91.66666666666666
+Liberty Pro,Liberty Prof.,91.66666666666666
 AFC Wimbledon,Wimbledon FC,91.19999999999999
-FK Mykolaiv,SK Mykolaiv,90.9090909090909
-E. Kamyshin,T. Kamyshin,90.9090909090909
-CD Logroñés,UD Logroñés,90.9090909090909
-Waterford FC,Watford FC,90.9090909090909
-Chkalovets,Chkalovets-O,90.9090909090909
-Ferroviária,Ferroviário,90.9090909090909
-Club Bruges,Club Brugge,90.9090909090909
-Metalurg D.,Metalurg Z.,90.9090909090909
-B SAD,B. SAD,90.9090909090909
-Atlético-GO,Atlético-MG,90.9090909090909
-AS Valence,ASOA Valence,90.9090909090909
-Tigre,Tigres,90.9090909090909
-US Créteil,US Créteil-L,90.9090909090909
 Torre,Torres,90.9090909090909
+FK Mykolaiv,SK Mykolaiv,90.9090909090909
+Ferroviária,Ferroviário,90.9090909090909
+Waterford FC,Watford FC,90.9090909090909
+AS Valence,ASOA Valence,90.9090909090909
+Atlético-GO,Atlético-MG,90.9090909090909
+CD Logroñés,UD Logroñés,90.9090909090909
+B SAD,B. SAD,90.9090909090909
+Tigre,Tigres,90.9090909090909
+Metalurg D.,Metalurg Z.,90.9090909090909
+Chkalovets,Chkalovets-O,90.9090909090909
 Al-Wahda FC,Al-Wehda FC,90.9090909090909
-Volgar,Volgar-Gazprom,90.0
-Volgar,Volgar-Gazprom-2,90.0
-1.FC Nuremberg,Nuremberg,90.0
-Varzim,Varzim SC,90.0
-Vasco,Vasco da Gama,90.0
-Verona,Virtus Verona,90.0
-VfB Leipzig,VfB Leipzig (- 2004),90.0
-Vicenza,Vicenza Calcio,90.0
-Vicenza,Vicenza Yth.,90.0
-Ural,Uralets Nizhniy Tagil,90.0
-Ural,Uralmash,90.0
-Ural,Uralmash Ekaterinburg,90.0
-Uralmash,Uralmash Ekaterinburg,90.0
-VVV,VVV-Venlo,90.0
-VVV,VVV/Hel,90.0
-Valenzana,Valenzana Mado,90.0
-US Palermo,US Palermo Yout,90.0
-AS Nancy,AS Nancy-Lorraine,90.0
-Ural,Ural Yekaterinburg,90.0
+E. Kamyshin,T. Kamyshin,90.9090909090909
+US Créteil,US Créteil-L,90.9090909090909
+Club Bruges,Club Brugge,90.9090909090909
+Kareda,Kareda Siauliai,90.0
+Karelia,Karelia-Discov.,90.0
+Olympiacos,Olympiakos,90.0
+KFC Uerdingen 05,Uerdingen,90.0
+Knights,NZ Knights FC,90.0
+Orel,Spartak Orel,90.0
+Olimpia,Olimpia Grudz.,90.0
+Knights,Scarlet Knights,90.0
+Kolomna,Oka Kolomna,90.0
+Juve Stabia,Stabia,90.0
+Oldham,Oldham Athletic,90.0
+KVC Westerlo,Westerlo,90.0
+NEC,NECOss,90.0
+Orlando,Orlando City SC,90.0
+Orlando,Orlando Pirates,90.0
+Plymouth,Plymouth Argyle,90.0
+Irtysh,Irtysh Omsk,90.0
+Peterborough,Peterborough United,90.0
+Perpignan,Sp. Perpignan R,90.0
+Perpignan,Perpignan Canet,90.0
+Irtysh,Irtysh Tobolsk,90.0
+Istra,Istra 1961,90.0
+Istra,NK Istra,90.0
+Istra,NK Istra Pula,90.0
+Parma FC,Parma FC Youth,90.0
+Parma,Parma FC Youth,90.0
+Parma,Parma FC,90.0
+Parma,Parma Calcio 1913,90.0
+Palermo,US Palermo Yout,90.0
+Ituano,Ituano FC,90.0
+JC Abidjan,RC Abidjan,90.0
+Paderborn,SC Paderborn 07,90.0
+Jong KAA Gent,KAA Gent,90.0
+PSV,PSV Rostock,90.0
+Junior,Junior FC,90.0
+PSV,PSV Eindhoven,90.0
+PFK Tambov,Tambov,90.0
+Oviedo,Real Oviedo You,90.0
+Oviedo,Real Oviedo,90.0
+Oviedo,Oviedo Vetusta,90.0
+Krasnodar,Krasnodar-2000,90.0
+Junior,Siena Junior,90.0
+Orlando,Orlando Sundogs,90.0
+Jurmala,Noah Jurmala,90.0
+Kolos Krasnodar,Krasnodar,90.0
+Lagoa,Operário Lagoa,90.0
+OG Rouen,Rouen,90.0
+Litex Lovech,Lovech,90.0
+Luch,Luch Vladivostok,90.0
+Lupa Piacenza,Piacenza,90.0
+Luton,Luton Town,90.0
+MTK,MTK Budapest,90.0
+MTK,MTK Hungária,90.0
+MVV,MVV Maastricht,90.0
+Mallorca,RCD Mallorca,90.0
+Malmö,Malmö FF,90.0
+Newcastle,Newcastle United,90.0
+Marseille,Olympique Marseille,90.0
+Master-Saturn,Saturn,90.0
+Melbourne,Melbourne City,90.0
+Newcastle,Newcastle Res.,90.0
+Melbourne,South Melbourne,90.0
+Neuchâtel Xamax,Xamax,90.0
+Neftchi,Neftchi Baku,90.0
+Naval,Naval 1º de Maio,90.0
+Messina,Messina Peloro,90.0
+Napoli,SSC Napoli,90.0
+Miami,Miami FC,90.0
+Modena,Modena FC,90.0
+Monarcas Morelia,Morelia,90.0
+Mordovia,Mordovia Saransk (-2020),90.0
+Nacional,Nacional (SP),90.0
+NK Istra,NK Istra Pula,90.0
+Mulhouse,Mulhouse S-A,90.0
+Málaga,Málaga CF,90.0
+Lubin,Zaglebie Lubin,90.0
+Lisma-Mordovia,Mordovia,90.0
+Nîmes,Nîmes Olympique,90.0
+Nizza,Nizzamillefonti,90.0
+Krasnodar,Kuban Krasnodar,90.0
+Krasnodar,Kuban Krasnodar (-2018),90.0
+Kuban,Kuban Krasnodar,90.0
+Kuban,Kuban Krasnodar (-2018),90.0
+Kuban Krasnodar,Kuban Krasnodar (-2018),90.0
+LD Maputo,Maputo,90.0
+LFK Sibir,Sibir,90.0
+NEC,NEC Nijmegen,90.0
+Nîmes,Nîmes Ol.,90.0
+Novosibirsk,Sibir Novosibirsk (- 2019),90.0
+Las Palmas,Las Palmas Atl.,90.0
+Las Palmas,Uni. Las Palmas,90.0
+Novara,Sparta Novara,90.0
+Latina,Latina Calcio,90.0
+Lazio,Lazio Youth,90.0
+Novara,Novara Calcio 1908,90.0
+Lazio,SS Lazio,90.0
+Lecce,US Lecce,90.0
+Lecco,Lecco Giovanili,90.0
+Lechia,Lechia Gdansk,90.0
+Leeds,Leeds Reserves,90.0
+Leeds,Leeds United,90.0
+Nottingham,Nottingham Forest,90.0
+Leiria,União de Leiria,90.0
+Lens,RC Lens,90.0
+Leça,Leça FC,90.0
+Norwich,Norwich City,90.0
+Melbourne,Melbourne Heart,90.0
+SSC Venezia,Venezia,90.0
+Portland,Portland Pilots,90.0
+Torpedo,Torpedo-Kadino,90.0
+Torpedo,Torpedo Kutaisi,90.0
+Torpedo,Torpedo Moscow,90.0
+Torpedo,Torpedo Ryazan,90.0
+Torpedo,Torpedo Sochi,90.0
+Torpedo,Torpedo Taganr.,90.0
+Torpedo,Torpedo Vlad.,90.0
+Torpedo,Torpedo Volzhsky,90.0
+Torpedo,Torpedo Zaporizhya,90.0
+Torpedo,Torpedo Zhodino,90.0
+Torpedo,Torpedo-D Mosc.,90.0
+Torpedo,Torpedo-MAZ,90.0
+Torpedo,Torpedo Armavir,90.0
+Torpedo,Torpedo-Metallurg Moscow,90.0
+Torpedo,Torpedo-SKA,90.0
+Torpedo,Torpedo-ZiL,90.0
+Torpedo,Torpedo-ZiL Moscow,90.0
+Torpedo Zaporizhya,Zaporizhya,90.0
+Torpedo-ZiL,Torpedo-ZiL Moscow,90.0
+Torre,Torreense,90.0
+Tottenham,Tottenham Hotspur,90.0
+Tottenham,Tottenham Res.,90.0
+Toulouse,Toulouse Font.,90.0
+Torpedo,Torpedo Arzamas,90.0
+Toronto,Toronto Lynx,90.0
+Porto Torres,Torre,90.0
+TOP,TOP Oss,90.0
+Sporting,Sporting Praia,90.0
+Standard,Standard Liège,90.0
+Standard,Standard Sumqayit,90.0
+Stavropol,Stavropolje,90.0
+Stoke,Stoke City,90.0
+Storm,Stormv. Telstar,90.0
+Stormv. Telstar,Telstar,90.0
+Sunderland,Sunderland Res.,90.0
+Swansea,Swansea City,90.0
+Swindon,Swindon Town,90.0
+TSV 1860,TSV 1860 Munich,90.0
+Toronto,Toronto Bliz.,90.0
+Terek,Terek Grozny,90.0
+Thonon Évian,Évian,90.0
+Tigre,Tigres UANL,90.0
+Tigres,Tigres UANL,90.0
+Tivoli,Tivoli Gardens FC,90.0
+Tom Tomsk,Tom-2 Tomsk,90.0
+Torino,Torino Calcio,90.0
+Torino,Torino FC,90.0
+Torino,Torino FC Youth,90.0
+Torino FC,Torino FC Youth,90.0
+Tours,Tours FC,90.0
+Treviso,Treviso FBC 1993,90.0
+Trion-Volga Tver,Volga Tver,90.0
+Zenit,Zenit Izhevsk,90.0
 West Brom,West Brom Res.,90.0
 West Brom,West Bromwich Albion,90.0
-Zenit,Zenit Izhevsk,90.0
-Zenit,Zenit Penza,90.0
-Zenit,Zenit S-Pb,90.0
-Zenit,Zenit St. Petersburg,90.0
-Zhemchuzhina,Zhemchuzhina Sochi,90.0
-Zorya,Zorya Lugansk,90.0
+West Ham,West Ham Res.,90.0
 West Ham,West Ham United,90.0
 Wigan,Wigan Athletic,90.0
 Willem,Willem II Tilburg,90.0
@@ -285,478 +423,86 @@ Willem,Willem II/RKC-19,90.0
 Wycombe,Wycombe Wanderers,90.0
 Yeovil,Yeovil Town,90.0
 Zenit,Zenit 2 S-Pb,90.0
-Wanderers,Wolverhampton Wanderers,90.0
+Zenit,Zenit Penza,90.0
+US Palermo,US Palermo Yout,90.0
+Zenit,Zenit S-Pb,90.0
+Zenit,Zenit St. Petersburg,90.0
+Zhemchuzhina,Zhemchuzhina Sochi,90.0
+Zorya,Zorya Lugansk,90.0
+Zorya,Zorya-Mals,90.0
+Újpest,Újpest FC,90.0
+КАМАЗ-Чаллы,КАМАЗ-Чаллы Набережные Челны,90.0
+Пресня,Пресня Москва,90.0
+ФК Элиста,Элиста,90.0
+Факел-Воронеж,Факел-Воронеж Воронеж,90.0
 Wanderers,Wycombe Wanderers,90.0
-Bra,Interklub Brazzaville,90.0
-Bra,NK Bravo,90.0
-Bra,Olé Brasil,90.0
-Bra,RB Bragantino,90.0
-Bra,Rio Branco,90.0
-Bra,Rio Branco-SP,90.0
-CRFSO Smolensk,RFS,90.0
-CS Sedan,CS Sedan-Ardennes,90.0
-CSKA Sofia,CSKA-Sofia,90.0
-Caen,SM Caen,90.0
-Cagliari,Cagliari Calcio,90.0
-Cagliari,Cagliari Youth,90.0
-Calcio Monza,Monza,90.0
-CF Extremadura,CF Extremadura (- 2010),90.0
-CF Extremadura (- 2010),Extremadura,90.0
-CD Málaga,Málaga,90.0
-Bury,Bury FC,90.0
-Bury,Bury Town,90.0
-CD El Nacional,Nacional,90.0
-Central,Rosario Central,90.0
-Cesena,RC Cesena,90.0
-Charlton,Charlton Athletic,90.0
-Chaves,GD Chaves,90.0
-Chernomorets Novorossijsk,Novorossijsk,90.0
-Chester,Chester City,90.0
-Chester,Chesterfield FC,90.0
-Chicago,Nueva Chicago,90.0
-Celta,Celta Turista,90.0
-Celta,Celta Vigo,90.0
-Celta,Celta de Vigo,90.0
-Celtic,Celtic Boys Club,90.0
-Central,Central Coast,90.0
-Central,Central Córdoba,90.0
-Campomaiorense,SC Campomaiorense (- 2001),90.0
-Cardiff,Cardiff City,90.0
-Carpi,Carpi FC 1909,90.0
-Carpi,Pietri Carpi,90.0
-Castêlo Maia,Maia,90.0
-Catania,Catania SSD,90.0
-Calcio Padova,Padova,90.0
-Caldas,Once Caldas,90.0
-Calgary Storm,Storm,90.0
-Cambuur,Cambuur-Leeuwarden bvo,90.0
-Cambuur,SC Cambuur Leeuwarden,90.0
-Cambuur,SC Cambuur-Leeuwarden,90.0
-Coventry,Coventry City,90.0
-Cray Wanderers FC,Wanderers,90.0
-Cremonese,Cremonese Giov.,90.0
-Crewe,Crewe Alexandra,90.0
-Crystal Palace,Palace,90.0
-Cuiseaux,Louh.-Cuiseaux,90.0
-Colchester,Colchester Utd.,90.0
-Colorado,Colorado Foxes,90.0
-Columbus,Columbus Crew,90.0
-Como,Como Calcio,90.0
-Concord Rangers,Rangers,90.0
-Città di Lecco,Lecco,90.0
-Clermont,Clermont Foot,90.0
-Clermont,Clermont Foot 63,90.0
-Coimbra,União Coimbra,90.0
-Colchester,Colchester United,90.0
-Chievo,Chievo Verona,90.0
-Chievo,Chievo Youth,90.0
-Chievo Verona,Verona,90.0
-Chita,L. Chita,90.0
-Chivas,Chivas USA,90.0
-Chkalovets,Chkalovets-FKMS,90.0
-Depor Fabril,Fabril,90.0
-Deportivo,Deportivo Alavés,90.0
-Deportivo,Deportivo Cali,90.0
-Deportivo,Deportivo Lara,90.0
-Deportivo,Deportivo Pasto,90.0
-Deportivo,Deportivo Quito,90.0
-Deportivo,Deportivo de La Coruña,90.0
-Deportivo,Haro Deportivo,90.0
-Depor,Deportivo Cali,90.0
-Depor,Deportivo Lara,90.0
-Depor,Deportivo Pasto,90.0
-Depor,Deportivo Quito,90.0
-Depor,Deportivo de La Coruña,90.0
-Depor,Haro Deportivo,90.0
-Depor,Lorca Deportiva,90.0
-Depor,Reus Deportiu,90.0
-De Graafschap Doetinchem,Graafschap,90.0
-Delfino Pescara 1936,Pescara,90.0
-Depor,Depor Fabril,90.0
-Depor,Depor. Alavés,90.0
-Depor,Deportes Tolima,90.0
-Depor,Deportivo,90.0
-Depor,Deportivo Alavés,90.0
-Cádiz,Cádiz CF,90.0
-DYuSSh Spartak,Sparta,90.0
-Dacia,Dacia B.,90.0
-Darmstadt,SV Darmstadt 98,90.0
-De Graafschap,De Graafschap Doetinchem,90.0
-Dinamo,Legion-Dinamo,90.0
-Dinamo Stavropol,Stavropol,90.0
-Dinamo-Gazovik Tyumen,Gazovik,90.0
-Dinamo-Gazovik Tyumen,Tyumen,90.0
-Dnipro,SK Dnipro-1,90.0
-Dinamo,Dinamo Stavropol,90.0
-Dinamo,Dinamo Tbilisi,90.0
-Dinamo,Dinamo Yakutsk,90.0
-Dinamo,Dinamo Zagreb,90.0
-Dinamo,Dinamo-D Moscow,90.0
-Dinamo,Dinamo-Gazovik Tyumen,90.0
-Dinamo,FC Dinamo,90.0
-Dinamo,FK Dinamo,90.0
-Dinamo,Dinamo Barnaul,90.0
-Dinamo,Dinamo Batumi,90.0
-Dinamo,Dinamo Bryansk,90.0
-Dinamo,Dinamo Makhach.,90.0
-Dinamo,Dinamo Minsk,90.0
-Dinamo,Dinamo Moscow,90.0
-Dinamo,Dinamo S-Pb,90.0
-Dinamo,Dinamo SPb,90.0
-Derby,Derby Acad.,90.0
-Derby,Derby County,90.0
-Bolton Wanderers,Wanderers,90.0
-Bor. M'gladbach,M'gladbach,90.0
-Bordeaux,FC Girondins Bordeaux,90.0
-Boro,Boro Res.,90.0
-Boro,Harrow Borough,90.0
-Brest,FK Brest,90.0
-Brest,Stade Brestois,90.0
-Brest,Stade Brestois 29,90.0
-Brighton,Brighton & Hove Albion,90.0
-Bristol,Bristol City,90.0
-Bristol,Bristol Rovers,90.0
-Burgos CF,Real Burgos CF,90.0
-Burton,Burton Albion,90.0
-Braga,RB Bragantino,90.0
-Braga,SC Braga,90.0
-Brann,SK Brann,90.0
-Bray Wanderers,Wanderers,90.0
-Brescia,Brescia Calcio,90.0
-Brest,Dynamo Brest,90.0
-Bra,SC Braga,90.0
-Bra,SK Brann,90.0
-Bra,Sibiryak Bratsk,90.0
-Bra,Slo. Bratislava,90.0
-Bradford,Bradford City,90.0
-Braga,Bragantino,90.0
-Braga,Bragança,90.0
-Bra,FC Brasov,90.0
-Bra,Inter Bratislava,90.0
-Desportivo Aves,Desportivo Aves (- 2020),90.0
-Dijon,Dijon FCO,90.0
-Din-Gaz Tyumen,Tyumen,90.0
-Dinamo,Dinamo 93,90.0
-Dinamo,Dinamo Academy,90.0
-Dinamo,Dinamo Baku,90.0
-Empoli,Empoli FC Youth,90.0
-Empoli,FC Empoli,90.0
-Empoli FC,Empoli FC Youth,90.0
-Enisey,Enisey Krasnoyarsk,90.0
-Enugu Rangers,Rangers,90.0
-ESTAC Troyes,Troyes,90.0
-East Preston,Preston,90.0
-Eintracht Frankfurt,Frankfurt,90.0
-Emmen,FC Emmen,90.0
-Emmen,H'veen/Emmen,90.0
-Empoli,Empoli FC,90.0
-Dynamo M,Dynamo Moscow,90.0
-Düsseldorf,Düsseldorf-West,90.0
-Düsseldorf,Fortuna Düsseldorf,90.0
-Doncaster,Doncaster Rovers,90.0
-Duisburg,MSV Duisburg,90.0
-Dvin,Dvina Vitebsk,90.0
-Dvina Vitebsk,Vitebsk,90.0
-Dynamo 2,Dynamo 2 Kyiv,90.0
-FC Messina,FC Messina Peloro,90.0
-FC Messina Peloro,Messina,90.0
-FC Rouen 1899,Rouen,90.0
-FC Istres,FC Istres Ouest Provence,90.0
-FC Luzern,Luzern,90.0
-FC Maia Lidador,Maia,90.0
-Excelsior,Excelsior Rotterdam,90.0
-F. Invicta,M. Invicta,90.0
-FC Dender,FC Denderleeuw,90.0
-FC Gloria Buzău,Gloria,90.0
-Estoril,Estoril Praia,90.0
-Estoril,GD Estoril Praia,90.0
-Ban,Banska Bystrica,90.0
-Ban,FC Baniyas,90.0
-Barra FC,Barra FC (SC),90.0
-Bra,Braunau,90.0
-Bra,Bray Academy,90.0
-Bra,Bray Wanderers,90.0
-Bra,Castelo Branco,90.0
-Bra,Corona Brasov,90.0
-Bra,Desp. Brasil,90.0
-Bra,E. Braunschweig,90.0
-Bra,Eintracht Braunschweig,90.0
-Bra,Bragantino,90.0
-Bra,Bragança,90.0
-Bra,Brage,90.0
-Bra,Braintree,90.0
-Bra,Brann,90.0
-Bra,Brasa,90.0
-Bra,Brasil-RS,90.0
-Bra,Brasiliense FC,90.0
-Borysfen,CSKA-Borysfen,90.0
-Bra,Brackley,90.0
-Bra,Bracknell,90.0
-Bra,Bradford,90.0
-Bra,Bradford City,90.0
-Bra,Bradford PA,90.0
-Bra,Braga,90.0
-Bologna,Bologna FC 1909,90.0
-Bolton,Bolton Wanderers,90.0
-Eulália Vizela,Vizela,90.0
-Everton,Everton Res.,90.0
-Exc. Mouscron,Mouscron,90.0
-FK Sochi,Sochi,90.0
-FK Tambov,Tambov,90.0
-FK Tyumen,FK Tyumen Youth,90.0
-FK Tyumen,Tyumen,90.0
-FK Tyumen Youth,Tyumen,90.0
-FK Ufa,Ufa,90.0
-FC Évian Thonon Gaillard,Évian,90.0
-FCI Levadia,Levadia,90.0
-FK Khimki,Khimki,90.0
-FK Partizani,Partizan,90.0
-FK Rostov,Rostov,90.0
-FC Tosno (-2018),Tosno,90.0
-FC Tours,Tours,90.0
-FC Vizela,Vizela,90.0
-FC Sochaux,FC Sochaux-Montbéliard,90.0
-FC Sochi,Sochi,90.0
-Fortuna,SC Fortuna Köln,90.0
-Fortuna Sittard,Sittard,90.0
-Frosinone,Frosinone Calcio,90.0
-Fulham,Fulham FC,90.0
-Fulham,Fulham Res.,90.0
-GE Juventus-SC,Juventus,90.0
-Feyenoord,Feyenoord Rotterdam,90.0
-Foggia,Foggia Calcio,90.0
-Forte Taganrog,Taganrog,90.0
-Fortuna,Fortuna Düsseldorf,90.0
-Fortuna,Fortuna Sittard,90.0
-Fortuna,Fortuna du Mfou,90.0
-Felgueiras,Felgueiras-2015,90.0
-Fenerbahce,Fenerbahce Yth.,90.0
-Ferro,Ferroviária,90.0
-Ferro,Ferroviário,90.0
-Ferro,Ferroviário-CE,90.0
-Ferro,Racing Ferrol,90.0
-Feyenoord,Feyenoord Ghana,90.0
-FK Ufa 2,Ufa,90.0
-FSV Mainz 05,Mainz 05,90.0
-FShM Torpedo 19,Torpedo,90.0
-Fabril,Fabril Barreiro,90.0
-Fakel,Fakel Voronezh,90.0
-Guimarães,Vit. Guimarães,90.0
-Guimarães,Vitória Guimarães SC,90.0
-Gwarek,Gwarek Zabrze,90.0
-Haladás,LFC Haladás,90.0
-Hamburg,Hamburger SV,90.0
-Hamburg,VfL 93 Hamburg,90.0
-Go Ahead,Go Ahead Eagles,90.0
-Gornik,Gornik Leczna,90.0
-Graafschap,Graafschap Yth.,90.0
-Grenoble,Grenoble Foot 38,90.0
-Grenoble,Ol. Grenoble,90.0
-Grimsby,Grimsby Town,90.0
-Genoa CFC,Genoa CFC Youth,90.0
-Getafe,Getafe CF,90.0
-Gimnasia,Gimnasia (J),90.0
-Gimnàstic,Gimnàstic de Tarragona,90.0
-Gloria,Gloria Bistrita,90.0
-Gastello Ufa,Ufa,90.0
-Gazovik,Gazovik Orenburg,90.0
-Gazovik,Gazovik-Gazprom,90.0
-Gazovik Orenburg,Orenburg,90.0
-Gela,Gela Calcio Youth,90.0
-Genoa,Genoa 1893,90.0
-Genoa,Genoa CFC,90.0
-Genoa,Genoa CFC Youth,90.0
-Juve Stabia,Stabia,90.0
-KFC Uerdingen 05,Uerdingen,90.0
-KVC Westerlo,Westerlo,90.0
-Kareda,Kareda Siauliai,90.0
-Karelia,Karelia-Discov.,90.0
-Istra,NK Istra Pula,90.0
-Ituano,Ituano FC,90.0
-JC Abidjan,RC Abidjan,90.0
-Jong KAA Gent,KAA Gent,90.0
-Junior,Junior FC,90.0
-Junior,Siena Junior,90.0
-Jurmala,Noah Jurmala,90.0
-Ilkeston,Ilkeston Town,90.0
-Imperia,Imperial Acad.,90.0
-Imperia,Murcia Imperial,90.0
-Ipswich,Ipswich Town,90.0
-Irtysh,Irtysh Omsk,90.0
-Irtysh,Irtysh Tobolsk,90.0
-Istra,Istra 1961,90.0
-Istra,NK Istra,90.0
-Hellas Verona,Verona,90.0
-Heracles,Heracles Almelo,90.0
-Athletic,Dover Athletic,90.0
-Athletic,Fisher Athletic,90.0
-Athletic,Frickley Athletic,90.0
-Athletic,Grays Athletic FC,90.0
-Athletic,Oldham Athletic,90.0
-Athletic,Scarborough Athletic,90.0
-Blackburn,Blackburn Rovers,90.0
-Blyth Spartans,Sparta,90.0
-Boavista,Boavista Y19,90.0
-Boca Juniors,Junior,90.0
-Bohemians,Bohemians 1905,90.0
-Bohemians,Bohemians Praha,90.0
-Belenenses,CF Os Belenenses,90.0
-Belgrano,Def. Belgrano,90.0
-Benevento,Benevento Calcio,90.0
-Benfica,Benfica Luanda,90.0
-Birmingham,Birmingham City,90.0
-Blackburn,Blackburn Acad.,90.0
-Blackburn,Blackburn Res.,90.0
-Barry,Barry Town,90.0
-Bastia-Borgo,Borgo,90.0
-Bay. Leverkusen,Leverkusen,90.0
-Bay. Uerdingen,Uerdingen,90.0
-Bayer 04 Leverkusen,Leverkusen,90.0
-Bayer 05 Uerdingen,Uerdingen,90.0
-Ban,Banik Ostrava,90.0
-Ban,Bankstown City,90.0
-Hoffenheim,TSG 1899 Hoffenheim,90.0
-Honvéd,Honvéd FC,90.0
-Hull,Hull City,90.0
-Lechia,Lechia Gdansk,90.0
-Leeds,Leeds Reserves,90.0
-Leeds,Leeds United,90.0
-Leiria,União de Leiria,90.0
-Lens,RC Lens,90.0
-Leça,Leça FC,90.0
-West Ham,West Ham Res.,90.0
-Las Palmas,Las Palmas Atl.,90.0
-Las Palmas,Uni. Las Palmas,90.0
-Latina,Latina Calcio,90.0
-Lazio,Lazio Youth,90.0
-Lazio,SS Lazio,90.0
-Lecce,US Lecce,90.0
-Lecco,Lecco Giovanili,90.0
-Kuban,Kuban Krasnodar,90.0
-Kuban,Kuban Krasnodar (-2018),90.0
-Kuban Krasnodar,Kuban Krasnodar (-2018),90.0
-LD Maputo,Maputo,90.0
-LFK Sibir,Sibir,90.0
-Lagoa,Operário Lagoa,90.0
-Knights,NZ Knights FC,90.0
-Knights,Scarlet Knights,90.0
-Kolomna,Oka Kolomna,90.0
-Kolos Krasnodar,Krasnodar,90.0
-Krasnodar,Krasnodar-2000,90.0
-Krasnodar,Kuban Krasnodar,90.0
-Krasnodar,Kuban Krasnodar (-2018),90.0
-Monarcas Morelia,Morelia,90.0
-Mordovia,Mordovia Saransk (-2020),90.0
-Mulhouse,Mulhouse S-A,90.0
-Málaga,Málaga CF,90.0
-NEC,NEC Nijmegen,90.0
-Melbourne,Melbourne Heart,90.0
-Melbourne,South Melbourne,90.0
-Messina,Messina Peloro,90.0
+Wanderers,Wolverhampton Wanderers,90.0
 W. Bremen,W. Bremen Res.,90.0
-Miami,Miami FC,90.0
-Modena,Modena FC,90.0
-MTK,MTK Hungária,90.0
-MVV,MVV Maastricht,90.0
-Mallorca,RCD Mallorca,90.0
-Malmö,Malmö FF,90.0
-Marseille,Olympique Marseille,90.0
-Master-Saturn,Saturn,90.0
-Melbourne,Melbourne City,90.0
-Lisma-Mordovia,Mordovia,90.0
-Litex Lovech,Lovech,90.0
-Lubin,Zaglebie Lubin,90.0
-Luch,Luch Vladivostok,90.0
-Lupa Piacenza,Piacenza,90.0
-Luton,Luton Town,90.0
-MTK,MTK Budapest,90.0
-Olympiacos,Olympiakos,90.0
-Orel,Spartak Orel,90.0
-Orlando,Orlando City SC,90.0
-Orlando,Orlando Pirates,90.0
-Orlando,Orlando Sundogs,90.0
-Oviedo,Oviedo Vetusta,90.0
-Oviedo,Real Oviedo,90.0
-Nîmes,Nîmes Ol.,90.0
-Nîmes,Nîmes Olympique,90.0
-OG Rouen,Rouen,90.0
-Oldham,Oldham Athletic,90.0
-Olimpia,Olimpia Grudz.,90.0
-Newcastle,Newcastle Res.,90.0
-Newcastle,Newcastle United,90.0
-Nizza,Nizzamillefonti,90.0
-Norwich,Norwich City,90.0
-Nottingham,Nottingham Forest,90.0
-Novara,Novara Calcio 1908,90.0
-Novara,Sparta Novara,90.0
-Novosibirsk,Sibir Novosibirsk (- 2019),90.0
-NEC,NECOss,90.0
-NK Istra,NK Istra Pula,90.0
-Nacional,Nacional (SP),90.0
-Napoli,SSC Napoli,90.0
-Naval,Naval 1º de Maio,90.0
-Neftchi,Neftchi Baku,90.0
-Neuchâtel Xamax,Xamax,90.0
-Preston,Preston North End,90.0
-Queens Park Rangers,Rangers,90.0
-Quevilly,Quevilly Rouen,90.0
-Quevilly Rouen,Rouen,90.0
-RBC,RBC Roosendaal,90.0
-Peterborough,Peterborough United,90.0
-Plymouth,Plymouth Argyle,90.0
-Portland,Portland Pilots,90.0
-Porto Torres,Torre,90.0
-Porto Torres,Torres,90.0
-Parma,Parma Calcio 1913,90.0
-Parma,Parma FC,90.0
-Parma,Parma FC Youth,90.0
-Parma FC,Parma FC Youth,90.0
-Perpignan,Perpignan Canet,90.0
-Perpignan,Sp. Perpignan R,90.0
-Oviedo,Real Oviedo You,90.0
-PFK Tambov,Tambov,90.0
-Amkar,Amkar Perm,90.0
-Amkar,Amkar-Junior,90.0
-Amkar-Junior,Junior,90.0
-América,América FC-SP,90.0
-América,Norte América,90.0
-Baltika,Baltika Kaliningrad,90.0
-Ban,Banants,90.0
-Ban,Banbury,90.0
-Ban,Bandirmaspor,90.0
-Ban,Banfield,90.0
-Ban,Bangkok Utd.,90.0
-Ban,Bangu-RJ,90.0
-Aves,Desportivo Aves,90.0
-Aves,Desportivo Aves (- 2020),90.0
-Aves,Ferreira Aves,90.0
-AS Nola,Nola,90.0
-B. Banja Luka,Ban,90.0
-AS Red Star 93,Red Star,90.0
-BSV Brandenburg,Bra,90.0
-Athletic,VCD Athletic FC,90.0
-Athletic,Wigan Athletic,90.0
-Athletic de Bilbao,Bilbao,90.0
-Atl. Nacional,Nacional,90.0
-Atletico Catania,Catania,90.0
-Atlético Celaya,Celaya,90.0
-Torpedo,Torpedo Arzamas,90.0
-Athletic,Athletico-PR,90.0
-Athletic,Charlton Athletic,90.0
-PSV,PSV Eindhoven,90.0
-PSV,PSV Rostock,90.0
-Paderborn,SC Paderborn 07,90.0
-Palermo,US Palermo Yout,90.0
+Volgar,Volgar-Gazprom-2,90.0
+Udinese,Udinese Calcio,90.0
+Union Sportive Valenciennes-Anzin Arrondissement,Valenciennes,90.0
+Unione Venezia,Venezia,90.0
+Ural,Ural 2,90.0
+Ural,Ural Yekaterinburg,90.0
+Ural,Uralets Nizhniy Tagil,90.0
+Ural,Uralmash,90.0
+Ural,Uralmash Ekaterinburg,90.0
+Uralmash,Uralmash Ekaterinburg,90.0
+VVV,VVV-Venlo,90.0
+VVV,VVV/Hel,90.0
+Valenzana,Valenzana Mado,90.0
+Varzim,Varzim SC,90.0
+Vasco,Vasco da Gama,90.0
+Verona,Virtus Verona,90.0
+VfB Leipzig,VfB Leipzig (- 2004),90.0
+Vicenza,Vicenza Calcio,90.0
+Vicenza,Vicenza Yth.,90.0
+Vitesse,Vitesse Arnhem,90.0
+Vizela,Vizela Y19,90.0
+Volgar,Volgar-Gazprom,90.0
+Sporting,Sporting Gijón,90.0
+Sporting,Sporting Club de Toulon et du Var,90.0
+Spezia,Spezia Calcio,90.0
+SC Cambuur,SC Cambuur Leeuwarden,90.0
 Red Star,Seaham Red Star,90.0
 Reggina,Reggina Calcio,90.0
 Reggina,Reggina Primaver,90.0
 Remo,Remo Stars FC,90.0
 Roda JC,Roda JC Kerkrade,90.0
 Rostov,Rostselmash Rostov,90.0
-Rangers,Stafford Rangers,90.0
-Rayo,Rayo Vallecano,90.0
-Reading FC,Yeading FC,90.0
+Rostov,SKA Rostov,90.0
+Rostov,Vodnik Rostov,90.0
+Rostselmash,Rostselmash Rostov,90.0
+Rotherham,Rotherham United,90.0
+SC Cambuur,SC Cambuur-Leeuwarden,90.0
+Saturn,Saturn REN-TV Ramenskoe,90.0
+SD Taishan,SD Taishan Res.,90.0
+SG Wattenscheid 09,Wattenscheid,90.0
+SPAL,SPAL 2013,90.0
+Imperia,Murcia Imperial,90.0
+SShOR Zenit,Zenit,90.0
+SVV,SVVSMC,90.0
+Salernitana,US Salernitana 1919,90.0
+San Jose,San Jose Clash,90.0
+Santos,Santos FC,90.0
+Santos,Santos Laguna,90.0
 Real San Luis,San Luis,90.0
+Reading FC,Yeading FC,90.0
+Rayo,Rayo Vallecano,90.0
+Rangers,Stafford Rangers,90.0
+Porto Torres,Torres,90.0
+Preston,Preston North End,90.0
+Queens Park Rangers,Rangers,90.0
+Quevilly,Quevilly Rouen,90.0
+Quevilly Rouen,Rouen,90.0
+RBC,RBC Roosendaal,90.0
+RC Strasbourg Alsace,Strasbourg,90.0
+RKC,RKC Waalwijk,90.0
+RKC,Willem II/RKC-19,90.0
+RV & AV Sparta,Sparta,90.0
+RWDM,RWDM Brussels,90.0
+Rad,Rad Belgrade,90.0
+Rad,Radcliffe,90.0
 Rad,Radnicki 1923,90.0
 Rad,Radnicki Nis,90.0
 Rad,Radnicki Obrenovac,90.0
@@ -765,86 +511,23 @@ Rad,Radnik,90.0
 Rad,Radnik Bijelj.,90.0
 Radnik,Radnik Bijelj.,90.0
 Rangers,Rangers Talca,90.0
-RC Strasbourg Alsace,Strasbourg,90.0
-RKC,RKC Waalwijk,90.0
-RKC,Willem II/RKC-19,90.0
-RV & AV Sparta,Sparta,90.0
-RWDM,RWDM Brussels,90.0
-Rad,Rad Belgrade,90.0
-Rad,Radcliffe,90.0
-Salernitana,US Salernitana 1919,90.0
-San Jose,San Jose Clash,90.0
-Santos,Santos FC,90.0
-Santos,Santos Laguna,90.0
-SPAL,SPAL 2013,90.0
-SSC Venezia,Venezia,90.0
-SShOR Zenit,Zenit,90.0
-SVV,SVVSMC,90.0
-SD Taishan,SD Taishan Res.,90.0
-SG Wattenscheid 09,Wattenscheid,90.0
-Rostov,SKA Rostov,90.0
-Rostov,Vodnik Rostov,90.0
-Torpedo,Torpedo Kutaisi,90.0
-ASG Nocerina,Nocerina,90.0
-AZ,AZ Alkmaar,90.0
-AZ,KamAZ,90.0
-AZ,Lada-Togliat-VAZ,90.0
-Artmedia Brat.,Bra,90.0
-Ascoli,Ascoli Calcio 1898,90.0
-Association Troyes Aube Champagne,Troyes,90.0
-Athletic,Athletic de Bilbao,90.0
-Anzhi,Anzhi Makhachkala ( -2022),90.0
-Argentinos,Argentinos Jrs.,90.0
-Arges Dacia Pit.,Dacia,90.0
-Arm. Bielefeld,Bielefeld,90.0
-Armavir,Torpedo Armavir,90.0
-Arminia Bielefeld,Bielefeld,90.0
-Arouca,FC Arouca,90.0
-América,Sol de América,90.0
-América-RJ,América-RN,90.0
-Ancona,Ancona Calcio,90.0
-Ancona,Ancona Youth,90.0
-Anderlecht,Anderlecht Yth.,90.0
-Annan Athletic,Athletic,90.0
-Antwerp,Royal Antwerp,90.0
-Alloa Athletic,Athletic,90.0
-Rostselmash,Rostselmash Rostov,90.0
-Rotherham,Rotherham United,90.0
-SC Cambuur,SC Cambuur Leeuwarden,90.0
-SC Cambuur,SC Cambuur-Leeuwarden,90.0
-Smena,Smena-Saturn,90.0
-Sochi,Sochi-04,90.0
-Sochi,Torpedo Sochi,90.0
-Sochi,Zhem. Sochi,90.0
-Sochi,Zhemchuzhina Sochi,90.0
-Solihull,Solihull Moors,90.0
-Southend,Southend United,90.0
-SpVgg Unterhaching,Unterhaching,90.0
-Shinnik,Shinnik Yaroslav,90.0
-Shinnik,Shinnik Yaroslavl,90.0
-Sibir,Sibir Novosibirsk (- 2019),90.0
-Sibir,Sibiryak Bratsk,90.0
-Siena,Siena Junior,90.0
-Smena,Smena Moskau,90.0
-Scunthorpe,Scunthorpe Utd.,90.0
-Serra,Serrano-BA,90.0
-Setúbal,Vitória Setúbal,90.0
-Setúbal,Vitória Setúbal FC,90.0
-Sevilla,Sevilla Atl.,90.0
 Saturn,Saturn REN-TV,90.0
-Saturn,Saturn REN-TV Ramenskoe,90.0
 Saturn,Saturn Ramenskoe,90.0
-Saturn,Smena-Saturn,90.0
-Saturn REN-TV,Saturn REN-TV Ramenskoe,90.0
-Scarborough,Scarborough Athletic,90.0
-Scunthorpe,Scunthorpe United,90.0
-Spartak N.,Spartak NN,90.0
-Spartak Tambov,Tambov,90.0
 Spartak-Alania,Spartak-Alania Vladikavkaz,90.0
-Spezia,Spezia Calcio,90.0
-Sporting,Sporting Club de Toulon et du Var,90.0
-Sporting,Sporting Gijón,90.0
-Sporting,Sporting Praia,90.0
+Sparta,Spartak Shuya,90.0
+Sparta,Sparta Rotterdam,90.0
+Sparta,Spartak 2,90.0
+Sparta,Spartak Ch.,90.0
+Sparta,Spartak Moscow,90.0
+Sparta,Spartak N.,90.0
+Sparta,Spartak NN,90.0
+Sparta,Spartak Nalchik,90.0
+Sparta,Spartak Orel,90.0
+Sparta,Spartak Ryazan,90.0
+Sparta,Spartak Semey,90.0
+Sparta,Spartak Tambov,90.0
+Saturn,Smena-Saturn,90.0
+Sparta,Spartak Trnava,90.0
 Sparta,Spartak V-kavkaz,90.0
 Sparta,Spartak Varna,90.0
 Sparta,Spartak Vladikavkaz,90.0
@@ -852,105 +535,154 @@ Sparta,Spartak-Alania,90.0
 Sparta,Spartak-Alania Vladikavkaz,90.0
 Sparta,Spartak-D Moscow,90.0
 Sparta,Spartak-Orekhovo,90.0
-Sparta,Spartak NN,90.0
-Sparta,Spartak Nalchik,90.0
-Sparta,Spartak Orel,90.0
-Sparta,Spartak Ryazan,90.0
-Sparta,Spartak Semey,90.0
-Sparta,Spartak Shuya,90.0
-Sparta,Spartak Tambov,90.0
-Sparta,Spartak Trnava,90.0
-Sparta,Sparta Novara,90.0
-Sparta,Sparta Prague,90.0
+Spartak N.,Spartak NN,90.0
+Spartak Tambov,Tambov,90.0
 Sparta,Sparta R.,90.0
-Sparta,Sparta Rotterdam,90.0
-Sparta,Spartak 2,90.0
-Sparta,Spartak Ch.,90.0
-Sparta,Spartak Moscow,90.0
-Sparta,Spartak N.,90.0
-Tigres,Tigres UANL,90.0
-Tivoli,Tivoli Gardens FC,90.0
-Tom Tomsk,Tom-2 Tomsk,90.0
-Torino,Torino Calcio,90.0
-Torino,Torino FC,90.0
-Torino,Torino FC Youth,90.0
-Torino FC,Torino FC Youth,90.0
-Toronto,Toronto Bliz.,90.0
-TOP,TOP Oss,90.0
-TSV 1860,TSV 1860 Munich,90.0
-Terek,Terek Grozny,90.0
-Thonon Évian,Évian,90.0
-Torpedo,Torpedo Moscow,90.0
-Tigre,Tigres UANL,90.0
-Stoke,Stoke City,90.0
-Storm,Stormv. Telstar,90.0
-Stormv. Telstar,Telstar,90.0
-Sunderland,Sunderland Res.,90.0
-Swansea,Swansea City,90.0
-Swindon,Swindon Town,90.0
-Standard,Standard Liège,90.0
-Standard,Standard Sumqayit,90.0
-Stavropol,Stavropolje,90.0
-Tottenham,Tottenham Hotspur,90.0
-Tottenham,Tottenham Res.,90.0
-Toulouse,Toulouse Font.,90.0
-Tours,Tours FC,90.0
-Treviso,Treviso FBC 1993,90.0
-Trion-Volga Tver,Volga Tver,90.0
-Torpedo,Torpedo Ryazan,90.0
-Torpedo,Torpedo-Metallurg Moscow,90.0
-Torpedo,Torpedo-SKA,90.0
-Torpedo,Torpedo-ZiL,90.0
-Torpedo,Torpedo-ZiL Moscow,90.0
-Torpedo Zaporizhya,Zaporizhya,90.0
-Torpedo-ZiL,Torpedo-ZiL Moscow,90.0
-Torre,Torreense,90.0
-Torpedo,Torpedo Sochi,90.0
-AC Parma,Parma,90.0
-Энергия-Текстиль,Энергия-Текстильщик Камышин,90.0
-1.FC K'lautern,K'lautern,90.0
-APO Levadiakos,Levadia,90.0
-AS Bari,Bari,90.0
-AS Cannes,Cannes,90.0
-AS Gubbio,Gubbio,90.0
-Torpedo,Torpedo-MAZ,90.0
-1.FSV Mainz 05,Mainz 05,90.0
-AS Monaco,Monaco,90.0
-AGOVV,VIT/AGOVV,90.0
-AGOVV,Vit./AGOVV,90.0
-AIK,Skellefteå AIK,90.0
-AJ Fano,Fano,90.0
-AC Pisa,Pisa,90.0
-AC Siena,Siena,90.0
-AC Venezia 1907,Venezia,90.0
-ACR Messina You,Messina,90.0
-ADO,ADO '20,90.0
-ADO,ADO Den Haag,90.0
-AC Arles,AC Arles-Avignon,90.0
-Udinese,Udinese Calcio,90.0
-Union Sportive Valenciennes-Anzin Arrondissement,Valenciennes,90.0
-Unione Venezia,Venezia,90.0
-Ural,Ural 2,90.0
-Zorya,Zorya-Mals,90.0
-Újpest,Újpest FC,90.0
-КАМАЗ-Чаллы,КАМАЗ-Чаллы Набережные Челны,90.0
-Пресня,Пресня Москва,90.0
-ФК Элиста,Элиста,90.0
-Факел-Воронеж,Факел-Воронеж Воронеж,90.0
+Sparta,Sparta Prague,90.0
+Sparta,Sparta Novara,90.0
+SpVgg Unterhaching,Unterhaching,90.0
+Saturn REN-TV,Saturn REN-TV Ramenskoe,90.0
+Scarborough,Scarborough Athletic,90.0
+Scunthorpe,Scunthorpe United,90.0
+Scunthorpe,Scunthorpe Utd.,90.0
+Serra,Serrano-BA,90.0
+Setúbal,Vitória Setúbal,90.0
+Setúbal,Vitória Setúbal FC,90.0
+Sevilla,Sevilla Atl.,90.0
+Shinnik,Shinnik Yaroslav,90.0
+Shinnik,Shinnik Yaroslavl,90.0
+Sibir,Sibir Novosibirsk (- 2019),90.0
+Sibir,Sibiryak Bratsk,90.0
+Siena,Siena Junior,90.0
+Smena,Smena Moskau,90.0
+Smena,Smena-Saturn,90.0
+Sochi,Sochi-04,90.0
+Sochi,Torpedo Sochi,90.0
+Sochi,Zhem. Sochi,90.0
+Sochi,Zhemchuzhina Sochi,90.0
+Solihull,Solihull Moors,90.0
+Southend,Southend United,90.0
+Ipswich,Ipswich Town,90.0
+FK Tambov,Tambov,90.0
+Imperia,Imperial Acad.,90.0
+Bra,Bragança,90.0
+Boro,Boro Res.,90.0
+Boro,Harrow Borough,90.0
+Borysfen,CSKA-Borysfen,90.0
+Bra,Brackley,90.0
+Bra,Bracknell,90.0
+Bra,Bradford,90.0
+Bra,Bradford City,90.0
+Bra,Bradford PA,90.0
+Bra,Braga,90.0
+Bra,Bragantino,90.0
+Bra,Brage,90.0
+Bra,E. Braunschweig,90.0
+Bra,Braintree,90.0
+Bra,Brann,90.0
+Bra,Brasa,90.0
+Bra,Brasil-RS,90.0
+Bra,Brasiliense FC,90.0
+Bra,Braunau,90.0
+Bra,Bray Academy,90.0
+Bra,Bray Wanderers,90.0
+Bra,Castelo Branco,90.0
+Bra,Corona Brasov,90.0
+Bordeaux,FC Girondins Bordeaux,90.0
+Bor. M'gladbach,M'gladbach,90.0
+Bolton Wanderers,Wanderers,90.0
+Bolton,Bolton Wanderers,90.0
+Barra FC,Barra FC (SC),90.0
+Barry,Barry Town,90.0
+Bastia-Borgo,Borgo,90.0
+Bay. Leverkusen,Leverkusen,90.0
+Bay. Uerdingen,Uerdingen,90.0
+Bayer 04 Leverkusen,Leverkusen,90.0
+Bayer 05 Uerdingen,Uerdingen,90.0
+Belenenses,CF Os Belenenses,90.0
+Belgrano,Def. Belgrano,90.0
+Benevento,Benevento Calcio,90.0
+Benfica,Benfica Luanda,90.0
+Birmingham,Birmingham City,90.0
+Blackburn,Blackburn Acad.,90.0
+Blackburn,Blackburn Res.,90.0
+Blackburn,Blackburn Rovers,90.0
+Blyth Spartans,Sparta,90.0
+Boavista,Boavista Y19,90.0
+Boca Juniors,Junior,90.0
+Bohemians,Bohemians 1905,90.0
+Bohemians,Bohemians Praha,90.0
+Bologna,Bologna FC 1909,90.0
+Bra,Desp. Brasil,90.0
+Bra,Eintracht Braunschweig,90.0
+Ban,Banska Bystrica,90.0
+CS Sedan,CS Sedan-Ardennes,90.0
+Bristol,Bristol Rovers,90.0
+Burgos CF,Real Burgos CF,90.0
+Burton,Burton Albion,90.0
+Bury,Bury FC,90.0
+Bury,Bury Town,90.0
+CD El Nacional,Nacional,90.0
+CD Málaga,Málaga,90.0
+CF Extremadura,CF Extremadura (- 2010),90.0
+CF Extremadura (- 2010),Extremadura,90.0
+CRFSO Smolensk,RFS,90.0
+CSKA Sofia,CSKA-Sofia,90.0
+Bra,FC Brasov,90.0
+Caen,SM Caen,90.0
+Cagliari,Cagliari Calcio,90.0
+Cagliari,Cagliari Youth,90.0
+Calcio Monza,Monza,90.0
+Calcio Padova,Padova,90.0
+Caldas,Once Caldas,90.0
+Calgary Storm,Storm,90.0
+Cambuur,Cambuur-Leeuwarden bvo,90.0
+Cambuur,SC Cambuur Leeuwarden,90.0
+Cambuur,SC Cambuur-Leeuwarden,90.0
+Bristol,Bristol City,90.0
+Brighton,Brighton & Hove Albion,90.0
+Brest,Stade Brestois 29,90.0
+Brest,Stade Brestois,90.0
+Bra,Inter Bratislava,90.0
+Bra,Interklub Brazzaville,90.0
+Bra,NK Bravo,90.0
+Bra,Olé Brasil,90.0
+Bra,RB Bragantino,90.0
+Bra,Rio Branco,90.0
+Bra,Rio Branco-SP,90.0
+Bra,SC Braga,90.0
+Bra,SK Brann,90.0
+Bra,Sibiryak Bratsk,90.0
+Bra,Slo. Bratislava,90.0
+Bradford,Bradford City,90.0
+Braga,Bragantino,90.0
+Braga,Bragança,90.0
+Braga,RB Bragantino,90.0
+Braga,SC Braga,90.0
+Brann,SK Brann,90.0
+Bray Wanderers,Wanderers,90.0
+Brescia,Brescia Calcio,90.0
+Brest,Dynamo Brest,90.0
+Brest,FK Brest,90.0
+Ban,FC Baniyas,90.0
+Ban,Bankstown City,90.0
+Ilkeston,Ilkeston Town,90.0
+Airdrie,Airdrieonians,90.0
+AS Red Star 93,Red Star,90.0
+ASG Nocerina,Nocerina,90.0
+AZ,AZ Alkmaar,90.0
+AZ,KamAZ,90.0
+AZ,Lada-Togliat-VAZ,90.0
+AZ,Torpedo-MAZ,90.0
+Aachen,Alem. Aachen,90.0
+Aachen,Alemannia Aachen,90.0
+Académica,Académica Coimbra,90.0
+Académica Coimbra,Coimbra,90.0
 Akhmat,Akhmat Grozny,90.0
-Torpedo,Torpedo Taganr.,90.0
-Torpedo,Torpedo Vlad.,90.0
-Torpedo,Torpedo Volzhsky,90.0
-Torpedo,Torpedo Zaporizhya,90.0
-Torpedo,Torpedo Zhodino,90.0
-Torpedo,Torpedo-D Mosc.,90.0
-Torpedo,Torpedo-Kadino,90.0
-Vitesse,Vitesse Arnhem,90.0
-Toronto,Toronto Lynx,90.0
-Torpedo,Torpedo Armavir,90.0
-AC Cesena,Cesena,90.0
-AC Firenze Rondinella,Rondinella,90.0
-AC Monza,Monza,90.0
+Alloa Athletic,Athletic,90.0
+Al-Ain,Al-Ain FC,90.0
+Al-Ittihad,Al-Ittihad Club,90.0
+Alania,Alania Vl.,90.0
 Alania,Alania Vladikavkaz,90.0
 Alania,Alania-D Vladik.,90.0
 Alania,Spartak-Alania,90.0
@@ -958,15 +690,283 @@ Alania,Spartak-Alania Vladikavkaz,90.0
 Alavés,Depor. Alavés,90.0
 Alavés,Deportivo Alavés,90.0
 Albacete,Albacete Balompié,90.0
-Alessandria,Alessandria Youth,90.0
-Al-Ain,Al-Ain FC,90.0
-Al-Ittihad,Al-Ittihad Club,90.0
-Vizela,Vizela Y19,90.0
-Alania,Alania Vl.,90.0
-AZ,Torpedo-MAZ,90.0
-Aachen,Alem. Aachen,90.0
-Aachen,Alemannia Aachen,90.0
-Académica,Académica Coimbra,90.0
-Académica Coimbra,Coimbra,90.0
-Airdrie,Airdrieonians,90.0
+AS Nola,Nola,90.0
+AS Nancy,AS Nancy-Lorraine,90.0
+AS Monaco,Monaco,90.0
+AS Gubbio,Gubbio,90.0
+1.FC Nuremberg,Nuremberg,90.0
+1.FSV Mainz 05,Mainz 05,90.0
 A. Aachen,Aachen,90.0
+AC Arles,AC Arles-Avignon,90.0
+AC Cesena,Cesena,90.0
+AC Firenze Rondinella,Rondinella,90.0
+AC Monza,Monza,90.0
+AC Parma,Parma,90.0
+AC Pisa,Pisa,90.0
+AC Siena,Siena,90.0
+AC Venezia 1907,Venezia,90.0
+ACR Messina You,Messina,90.0
+ADO,ADO '20,90.0
+ADO,ADO Den Haag,90.0
+AGOVV,VIT/AGOVV,90.0
+AGOVV,Vit./AGOVV,90.0
+AIK,Skellefteå AIK,90.0
+AJ Fano,Fano,90.0
+APO Levadiakos,Levadia,90.0
+AS Bari,Bari,90.0
+AS Cannes,Cannes,90.0
+Alessandria,Alessandria Youth,90.0
+Amkar,Amkar Perm,90.0
+Ban,Banik Ostrava,90.0
+Aves,Desportivo Aves,90.0
+Athletic,Frickley Athletic,90.0
+Athletic,Grays Athletic FC,90.0
+Athletic,Oldham Athletic,90.0
+Athletic,Scarborough Athletic,90.0
+Athletic,VCD Athletic FC,90.0
+Athletic,Wigan Athletic,90.0
+Athletic de Bilbao,Bilbao,90.0
+Atl. Nacional,Nacional,90.0
+Atletico Catania,Catania,90.0
+Atlético Celaya,Celaya,90.0
+Aves,Desportivo Aves (- 2020),90.0
+Amkar,Amkar-Junior,90.0
+Aves,Ferreira Aves,90.0
+B. Banja Luka,Ban,90.0
+BSV Brandenburg,Bra,90.0
+Baltika,Baltika Kaliningrad,90.0
+Ban,Banants,90.0
+Ban,Banbury,90.0
+Ban,Bandirmaspor,90.0
+Ban,Banfield,90.0
+Ban,Bangkok Utd.,90.0
+Ban,Bangu-RJ,90.0
+Athletic,Fisher Athletic,90.0
+Athletic,Dover Athletic,90.0
+Athletic,Charlton Athletic,90.0
+Athletic,Athletico-PR,90.0
+Amkar-Junior,Junior,90.0
+América,América FC-SP,90.0
+América,Norte América,90.0
+América,Sol de América,90.0
+América-RJ,América-RN,90.0
+Ancona,Ancona Calcio,90.0
+Ancona,Ancona Youth,90.0
+Anderlecht,Anderlecht Yth.,90.0
+Annan Athletic,Athletic,90.0
+Antwerp,Royal Antwerp,90.0
+Anzhi,Anzhi Makhachkala ( -2022),90.0
+Argentinos,Argentinos Jrs.,90.0
+Arges Dacia Pit.,Dacia,90.0
+Arm. Bielefeld,Bielefeld,90.0
+Armavir,Torpedo Armavir,90.0
+Arminia Bielefeld,Bielefeld,90.0
+Arouca,FC Arouca,90.0
+Artmedia Brat.,Bra,90.0
+Ascoli,Ascoli Calcio 1898,90.0
+Association Troyes Aube Champagne,Troyes,90.0
+Athletic,Athletic de Bilbao,90.0
+Campomaiorense,SC Campomaiorense (- 2001),90.0
+Cardiff,Cardiff City,90.0
+Carpi,Carpi FC 1909,90.0
+FK Khimki,Khimki,90.0
+FC Messina,FC Messina Peloro,90.0
+FC Messina Peloro,Messina,90.0
+FC Rouen 1899,Rouen,90.0
+FC Sochaux,FC Sochaux-Montbéliard,90.0
+FC Sochi,Sochi,90.0
+FC Tosno (-2018),Tosno,90.0
+FC Tours,Tours,90.0
+FC Vizela,Vizela,90.0
+FC Évian Thonon Gaillard,Évian,90.0
+FCI Levadia,Levadia,90.0
+FK Partizani,Partizan,90.0
+Fakel,Fakel Voronezh,90.0
+FK Rostov,Rostov,90.0
+FK Sochi,Sochi,90.0
+1.FC K'lautern,K'lautern,90.0
+FK Tyumen,FK Tyumen Youth,90.0
+FK Tyumen,Tyumen,90.0
+FK Tyumen Youth,Tyumen,90.0
+FK Ufa,Ufa,90.0
+FK Ufa 2,Ufa,90.0
+FSV Mainz 05,Mainz 05,90.0
+FShM Torpedo 19,Torpedo,90.0
+FC Maia Lidador,Maia,90.0
+FC Luzern,Luzern,90.0
+FC Istres,FC Istres Ouest Provence,90.0
+FC Gloria Buzău,Gloria,90.0
+Düsseldorf,Düsseldorf-West,90.0
+Düsseldorf,Fortuna Düsseldorf,90.0
+ESTAC Troyes,Troyes,90.0
+East Preston,Preston,90.0
+Eintracht Frankfurt,Frankfurt,90.0
+Emmen,FC Emmen,90.0
+Emmen,H'veen/Emmen,90.0
+Empoli,Empoli FC,90.0
+Empoli,Empoli FC Youth,90.0
+Empoli,FC Empoli,90.0
+Empoli FC,Empoli FC Youth,90.0
+Enisey,Enisey Krasnoyarsk,90.0
+Enugu Rangers,Rangers,90.0
+Estoril,Estoril Praia,90.0
+Estoril,GD Estoril Praia,90.0
+Eulália Vizela,Vizela,90.0
+Everton,Everton Res.,90.0
+Exc. Mouscron,Mouscron,90.0
+Excelsior,Excelsior Rotterdam,90.0
+F. Invicta,M. Invicta,90.0
+FC Dender,FC Denderleeuw,90.0
+Fabril,Fabril Barreiro,90.0
+Felgueiras,Felgueiras-2015,90.0
+Carpi,Pietri Carpi,90.0
+Grimsby,Grimsby Town,90.0
+Genoa CFC,Genoa CFC Youth,90.0
+Getafe,Getafe CF,90.0
+Gimnasia,Gimnasia (J),90.0
+Gimnàstic,Gimnàstic de Tarragona,90.0
+Gloria,Gloria Bistrita,90.0
+Go Ahead,Go Ahead Eagles,90.0
+Gornik,Gornik Leczna,90.0
+Graafschap,Graafschap Yth.,90.0
+Grenoble,Grenoble Foot 38,90.0
+Grenoble,Ol. Grenoble,90.0
+Guimarães,Vit. Guimarães,90.0
+Fenerbahce,Fenerbahce Yth.,90.0
+Guimarães,Vitória Guimarães SC,90.0
+Gwarek,Gwarek Zabrze,90.0
+Haladás,LFC Haladás,90.0
+Hamburg,Hamburger SV,90.0
+Hamburg,VfL 93 Hamburg,90.0
+Hellas Verona,Verona,90.0
+Heracles,Heracles Almelo,90.0
+Hoffenheim,TSG 1899 Hoffenheim,90.0
+Honvéd,Honvéd FC,90.0
+Hull,Hull City,90.0
+Genoa,Genoa CFC Youth,90.0
+Genoa,Genoa CFC,90.0
+Genoa,Genoa 1893,90.0
+Gela,Gela Calcio Youth,90.0
+Ferro,Ferroviária,90.0
+Ferro,Ferroviário,90.0
+Ferro,Ferroviário-CE,90.0
+Ferro,Racing Ferrol,90.0
+Feyenoord,Feyenoord Ghana,90.0
+Feyenoord,Feyenoord Rotterdam,90.0
+Foggia,Foggia Calcio,90.0
+Forte Taganrog,Taganrog,90.0
+Fortuna,Fortuna Düsseldorf,90.0
+Fortuna,Fortuna Sittard,90.0
+Fortuna,Fortuna du Mfou,90.0
+Fortuna,SC Fortuna Köln,90.0
+Fortuna Sittard,Sittard,90.0
+Frosinone,Frosinone Calcio,90.0
+Fulham,Fulham FC,90.0
+Fulham,Fulham Res.,90.0
+GE Juventus-SC,Juventus,90.0
+Gastello Ufa,Ufa,90.0
+Gazovik,Gazovik Orenburg,90.0
+Gazovik,Gazovik-Gazprom,90.0
+Gazovik Orenburg,Orenburg,90.0
+Dynamo M,Dynamo Moscow,90.0
+Dynamo 2,Dynamo 2 Kyiv,90.0
+Dvina Vitebsk,Vitebsk,90.0
+Crewe,Crewe Alexandra,90.0
+Coimbra,União Coimbra,90.0
+Colchester,Colchester United,90.0
+Colchester,Colchester Utd.,90.0
+Colorado,Colorado Foxes,90.0
+Columbus,Columbus Crew,90.0
+Como,Como Calcio,90.0
+Concord Rangers,Rangers,90.0
+Coventry,Coventry City,90.0
+Cray Wanderers FC,Wanderers,90.0
+Cremonese,Cremonese Giov.,90.0
+Crystal Palace,Palace,90.0
+Dvin,Dvina Vitebsk,90.0
+Cuiseaux,Louh.-Cuiseaux,90.0
+Cádiz,Cádiz CF,90.0
+DYuSSh Spartak,Sparta,90.0
+Dacia,Dacia B.,90.0
+Darmstadt,SV Darmstadt 98,90.0
+De Graafschap,De Graafschap Doetinchem,90.0
+De Graafschap Doetinchem,Graafschap,90.0
+Delfino Pescara 1936,Pescara,90.0
+Depor,Depor Fabril,90.0
+Depor,Depor. Alavés,90.0
+Clermont,Clermont Foot 63,90.0
+Clermont,Clermont Foot,90.0
+Città di Lecco,Lecco,90.0
+Chkalovets,Chkalovets-FKMS,90.0
+Castêlo Maia,Maia,90.0
+Catania,Catania SSD,90.0
+Celta,Celta Turista,90.0
+Celta,Celta Vigo,90.0
+Celta,Celta de Vigo,90.0
+Celtic,Celtic Boys Club,90.0
+Central,Central Coast,90.0
+Central,Central Córdoba,90.0
+Central,Rosario Central,90.0
+Cesena,RC Cesena,90.0
+Charlton,Charlton Athletic,90.0
+Chaves,GD Chaves,90.0
+Chernomorets Novorossijsk,Novorossijsk,90.0
+Chester,Chester City,90.0
+Chester,Chesterfield FC,90.0
+Chicago,Nueva Chicago,90.0
+Chievo,Chievo Verona,90.0
+Chievo,Chievo Youth,90.0
+Chievo Verona,Verona,90.0
+Chita,L. Chita,90.0
+Chivas,Chivas USA,90.0
+Depor,Deportes Tolima,90.0
+Depor,Deportivo,90.0
+Depor,Deportivo Alavés,90.0
+Dinamo,Dinamo Barnaul,90.0
+Dinamo,Dinamo Bryansk,90.0
+Dinamo,Dinamo Makhach.,90.0
+Dinamo,Dinamo Minsk,90.0
+Dinamo,Dinamo Moscow,90.0
+Dinamo,Dinamo S-Pb,90.0
+Dinamo,Dinamo SPb,90.0
+Dinamo,Dinamo Stavropol,90.0
+Dinamo,Dinamo Tbilisi,90.0
+Dinamo,Dinamo Yakutsk,90.0
+Dinamo,Dinamo Zagreb,90.0
+Dinamo,Dinamo-D Moscow,90.0
+Dinamo,Dinamo-Gazovik Tyumen,90.0
+Dinamo,FC Dinamo,90.0
+Dinamo,FK Dinamo,90.0
+Dinamo,Legion-Dinamo,90.0
+Dinamo Stavropol,Stavropol,90.0
+Dinamo-Gazovik Tyumen,Gazovik,90.0
+Dinamo-Gazovik Tyumen,Tyumen,90.0
+Dnipro,SK Dnipro-1,90.0
+Doncaster,Doncaster Rovers,90.0
+Duisburg,MSV Duisburg,90.0
+Dinamo,Dinamo Batumi,90.0
+Dinamo,Dinamo Baku,90.0
+Depor,Deportivo Cali,90.0
+Dinamo,Dinamo Academy,90.0
+Depor,Deportivo Lara,90.0
+Depor,Deportivo Pasto,90.0
+Depor,Deportivo Quito,90.0
+Depor,Deportivo de La Coruña,90.0
+Depor,Haro Deportivo,90.0
+Depor,Lorca Deportiva,90.0
+Depor,Reus Deportiu,90.0
+Depor Fabril,Fabril,90.0
+Deportivo,Deportivo Alavés,90.0
+Deportivo,Deportivo Cali,90.0
+Deportivo,Deportivo Lara,90.0
+Deportivo,Deportivo Pasto,90.0
+Deportivo,Deportivo Quito,90.0
+Deportivo,Deportivo de La Coruña,90.0
+Deportivo,Haro Deportivo,90.0
+Derby,Derby Acad.,90.0
+Derby,Derby County,90.0
+Desportivo Aves,Desportivo Aves (- 2020),90.0
+Dijon,Dijon FCO,90.0
+Din-Gaz Tyumen,Tyumen,90.0
+Dinamo,Dinamo 93,90.0
+Энергия-Текстиль,Энергия-Текстильщик Камышин,90.0
