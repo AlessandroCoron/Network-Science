@@ -1,0 +1,1 @@
+The code is contained in a notebook, so it is subdivided in single cell for every part of the process. All data used are included in this .zip, and communities_all_algorithms.json contains the communities created by each algorithm, in order to have the results saved without re-running all the algorithms. Because of that, plot-generation cells retrieve results from that file.
